@@ -1,3 +1,3 @@
-# softka1
+# practica1
 
-Trabajo hecho con pseint acorde a los cincos puntos propuestos por el docente
+Trabajo hecho con pseint acorde a los cincos puntos propuestos.
